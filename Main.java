@@ -1,5 +1,5 @@
-/*Faça um programa em java que leia vários números. Caso o usuário digite -1, o programa para de solicitar os números e imprime a soma de todos os números digitados, sem contar com o -1.
-Nome do programa: SomaDeNumeros.java*/
+/* Faça um programa em java que leia vários números. Caso o usuário digite -1, o programa para de solicitar os números e imprime a soma de todos os números digitados, sem contar com o -1.
+Nome do programa: SomaDeNumeros.java */
 
 import java.util.*;
 
